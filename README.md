@@ -1,8 +1,10 @@
 # Sharp Shooter
-
-[
-[
-[
+<img width="2228" height="1245" alt="image" src="https://github.com/user-attachments/assets/814c2eb4-f88a-4bf9-bf66-3afe73ed74f4" />
+<img width="2231" height="1247" alt="image" src="https://github.com/user-attachments/assets/128a1ab8-19ff-437f-aa0f-dec60d40b91e" />
+<img width="2233" height="1252" alt="image" src="https://github.com/user-attachments/assets/1b74a803-be3b-48d1-8a92-f0f3360f17a9" />
+<img width="2233" height="1251" alt="image" src="https://github.com/user-attachments/assets/462d7131-089b-4469-b31b-4a2ef358347c" />
+<img width="2229" height="1245" alt="image" src="https://github.com/user-attachments/assets/ad640a21-5475-4343-98e0-82da7b0878e8" />
+<img width="2236" height="1254" alt="image" src="https://github.com/user-attachments/assets/4feb9641-8eb5-4269-87cf-ac908261eb68" />
 
 ## Описание проекта
 
